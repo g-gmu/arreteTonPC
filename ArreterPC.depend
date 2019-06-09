@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1410722919 source:d:\developpements\en cours\arreterpc\arreterpc\main.cpp
+	"arreterPC.h"
+	"nomPC.h"
+	<iostream>
+
+1410722311 d:\developpements\en cours\arreterpc\arreterpc\arreterpc.h
+
+1410721919 d:\developpements\en cours\arreterpc\arreterpc\nompc.h
+	<iostream>
+
